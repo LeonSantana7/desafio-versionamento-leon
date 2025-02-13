@@ -49,7 +49,7 @@ Este projeto foi desenvolvido como parte de um desafio acadêmico para aplicar o
 4. **Merge das Branches:** Após as alterações, as branches foram mescladas com a branch principal.
 5. **Envio para o Repositório Remoto:** As alterações locais foram enviadas para o repositório no GitHub, junto com os documentos gerados.
 
-## ✍️ Autores e Colaboradores
+## ✍️ Autor
 
 - **Nome do Autor:** Leon Santana
 
