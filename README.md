@@ -7,16 +7,16 @@ Este projeto foi desenvolvido como parte de um desafio acadêmico para aplicar o
 ## 📌 Funcionalidades
 
 - **Controle de Versionamento:** Utilização do Git para versionar as alterações feitas durante o Sprint.
-- **Alteração no `index.html`:** Mudança na cor do texto dos nomes dos veículos para azul (História de Usuário 1).
-- **Alteração no `contato.html`:** Atualização das descrições dos links da página de contato (História de Usuário 3).
+- **Alteração no `index.html`:** Mudança na cor do texto dos nomes dos veículos para azul.
+- **Alteração no `contato.html`:** Atualização das descrições dos links da página de contato .
 - **Documentos Gerados:**
   - **Sprint Backlog:** Documento gerado no início do Sprint, com as histórias de usuário a serem implementadas e o esforço estimado.
   - **Sprint Retrospective:** Documento gerado ao final do Sprint, contendo uma reflexão sobre o andamento do Sprint, o que funcionou bem e o que pode ser melhorado.
 
 ## 📂 Estrutura do Arquivo
 
-- `index.html`: Página principal do projeto, alterada conforme a história de usuário 1.
-- `contato.html`: Página de contato do projeto, alterada conforme a história de usuário 3.
+- `index.html`: Página principal do projeto, alterada conforme a história de ID 1.
+- `contato.html`: Página de contato do projeto, alterada conforme a história de ID 3.
 - `Sprint Backlog`: Documento gerado no início do Sprint, com informações sobre as histórias a serem implementadas.
 - `Sprint Retrospective`: Documento gerado ao final do Sprint, refletindo sobre os aprendizados do processo.
 
