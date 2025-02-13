@@ -1,0 +1,14 @@
+Funcionou bem ✅
+    -> Fácil controle de versões
+    -> Historias bem explicadas
+    -> Implementação ágil
+    -> Isolamento do arquivo
+    -> Merge tranquilo
+
+Não funcionou ❌
+    -> Não existe o arquivo veiculos.html
+    -> Problema de caractere no arquivo contato.html
+
+Sugestões de melhoria 💡
+    -> Uso continuo desse formato de trabalho para evitar retrabalho e organizar o que foi alterado no codigo.
+    

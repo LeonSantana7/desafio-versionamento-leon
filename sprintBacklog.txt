@@ -1,0 +1,7 @@
+Historia implementadas e esforço para execução
+
+(ID 1) - Alterar a cor da fonte dos nomes dos veículos para azul na página index.html.
+    -> Esforço Baixo
+
+(ID 3) - Atualizar os nomes dos links na página contato.html para tornar a navegação mais clara.
+    -> Esforço Baixo
